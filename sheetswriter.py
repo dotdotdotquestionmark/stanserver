@@ -11,7 +11,7 @@ from datetime import date
 # this entire shit ass concept is dank to begin with
 
 # global spreadsheet details
-GOOGLE_SHEETS_ID = "1lU1dA_JBxe4iRcd8LhCR3heKsipGcDziWwD_al7MD9k"
+GOOGLE_SHEETS_ID = "1ls1dA_JBxs4lRcdfdsgaCR3swD_ak"
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 
 CREDENTIAL_FILE = "Credentials/contactformkeys.json" 
